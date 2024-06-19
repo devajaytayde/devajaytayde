@@ -2,7 +2,11 @@
 - 👀 I’m interested in Software Test Automation Engineering
 - 🌱 I’m currently learning Python, CICD, Machine Learning, AI
 - 💞️ I’m looking to collaborate on SDET Issues, Debugging, Problem Solving etc.  
-- 📫 How to reach - ajaytayde@gmail.com
+- 📫 How to reach -
+      - ajaytayde@gmail.com
+      - https://medium.com/@ajaytayde
+    
+  
 
 <!---
 devajaytayde/devajaytayde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
