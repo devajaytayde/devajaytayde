@@ -5,6 +5,7 @@
 - 📫 How to reach -
       - ajaytayde@gmail.com
       - https://medium.com/@ajaytayde
+      - https://www.linkedin.com/in/ajay-tayde-998ab653/
     
   
 
