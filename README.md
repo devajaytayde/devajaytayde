@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @devajaytayde
+- 👋 Hi, I’m Ajay Tayde
 - 👀 I’m interested in Software Test Automation Engineering
 - 🌱 I’m currently learning Python, CICD, Machine Learning, AI
 - 💞️ I’m looking to collaborate on SDET Issues, Debugging, Problem Solving etc.  
 - 📫 How to reach -
-      - ajaytayde@gmail.com
-      - https://medium.com/@ajaytayde
-      - https://www.linkedin.com/in/ajay-tayde-998ab653/
-      - +91 97302 92909
+      ✉️ ajaytayde@gmail.com
+      🌎 https://medium.com/@ajaytayde
+      🌎 https://www.linkedin.com/in/ajay-tayde-998ab653/
+      ☎️ +91 97302 92909
     
   
 
