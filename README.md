@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ajay Tayde
 - 👀 I’m interested in Software Test Automation Engineering
 - 🌱 I’m currently working on Java, Selenium, Cucumber BDD, Python, C# Playright, CICD, Machine Learning, AI projects etc.
-- 🌱 Also, I am having Well experience in Agile Methodologies, QA Best Pratices etc. 
+- 🌱 Also, I'm having well experience in Agile Methodologies, QA Best Pratices etc. 
 - 💞️ I’m looking to collaborate on SDET Issues, Debugging, Problem Solving etc.  
 - 📫 How to reach -
       ✉️ ajaytayde@gmail.com
