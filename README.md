@@ -9,8 +9,28 @@
       🌎 https://medium.com/@ajaytayde
       🌎 https://www.linkedin.com/in/ajay-tayde-998ab653/
       ☎️ +91 97302 92909
-    
-  
+
+
+
+
+
+
+
+Useful Confluence Links -
+🌱 Core Java 🌱
+🌎   https://www.geeksforgeeks.org/java/
+🌎   https://www.javatpoint.com/java-tutorial
+
+🌱 Selenium 🌱
+🌎   https://www.guru99.com/selenium-tutorial.html
+
+
+🌱 SQL 🌱
+🌎   https://www.w3schools.com/sql/
+
+🌱 Advance SQL 🌱
+🌎   Practical - https://www.geeksforgeeks.org/window-functions-in-sql/
+     Theorotical - https://mode.com/sql-tutorial/sql-window-functions
 
 <!---
 devajaytayde/devajaytayde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
