@@ -4,12 +4,6 @@
 - 🌱 I'm having well experience in Agile Methodologies, QA Best Pratices etc.
 - 🌱 I'm having extensive knowledge of Retail Banking - CASA, Business Banking, eDocuments & Investment Banking Domains - Equity, Fixed Income, Listed Derivatives, Foreign Exchange, Buy/Sell Side Front/Middle/Back Office/Reg technologies.
 - 💞️ I’m looking to collaborate on SDET Issues, Debugging, Problem Solving etc.  
-- 📫 How to reach -
-      ✉️ ajaytayde@gmail.com
-      🌎 https://medium.com/@ajaytayde
-      🌎 https://www.linkedin.com/in/ajay-tayde-998ab653/
-      ☎️ +91 97302 92909
-
 
 
 
