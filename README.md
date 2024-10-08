@@ -6,6 +6,7 @@
 - 🌱 I'm having extensive knowledge of Retail Banking - CASA, Business Banking, eDocuments & Investment Banking Domains - Equity, Fixed Income, Listed Derivatives, Foreign Exchange, Buy/Sell Side Front/Middle/Back Office/Regulatory Reporting & Services
 - 💞️ I’m looking to collaborate on SDET Issues, Debugging, Problem Solving etc.
 - 📧 I'm having direct contact @ mailto:ajaytayde@gmail.com
+- ✨ I'm enthusiastic about Test Automaion using AI to reduce efforts and improve test quality with lesser time in script building
 
 
 
