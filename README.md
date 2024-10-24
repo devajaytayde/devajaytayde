@@ -26,6 +26,11 @@ Useful Confluence Links -
 🌎   Practical - https://www.geeksforgeeks.org/window-functions-in-sql/
      Theorotical - https://mode.com/sql-tutorial/sql-window-functions
 
+
+🌱 Advance SQL 🌱
+🌎   Practical - https://www.geeksforgeeks.org/window-functions-in-sql/
+     Theorotical - https://mode.com/sql-tutorial/sql-window-functions
+     
 <!---
 devajaytayde/devajaytayde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
