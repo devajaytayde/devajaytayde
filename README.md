@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ajay Tayde
+- 👋 Hi, I’m Ajay Tayde 
 - 📐 I’m Bachelor of Engineer in Computer Science & Engineering
 - 👨‍💻 I’m working as a Software Test Automation Engineer in Banking & Finance Domain in Kharadi/Hinjewadi, Pune, Maharashtra
 - 🌱 I’m currently working on Java, Selenium, Cucumber BDD, Python, C# Playright, CICD, Machine Learning, AI projects etc
