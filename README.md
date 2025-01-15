@@ -28,8 +28,9 @@ Useful Confluence Links -
 
 
 🌱 Gen AI🌱
-🌎   Practical -  
-     Theorotical - 
+🌎   Practical -  Courses by  Rohit Shetty on Udemy
+     Theorotical - ISTQB AI Testing Course 
+     https://www.istqb.in/specialist/ai-testing 
      
 <!---
 devajaytayde/devajaytayde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
